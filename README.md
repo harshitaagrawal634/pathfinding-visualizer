@@ -1,6 +1,6 @@
 # Pathfinding Visualizer
 
-A dynamic and interactive visualization tool for popular pathfinding algorithms like A*, Dijkstra’s, Breadth-First Search (BFS), and Depth-First Search (DFS). Watch algorithms explore a grid, find the shortest path, and navigate around obstacles in real time.
+A dynamic and interactive visualization tool for popular pathfinding algorithms like Dijkstra’s, Breadth-First Search (BFS), and Depth-First Search (DFS). Watch algorithms explore a grid, find the shortest path, and navigate around obstacles in real time.
 
 
 ## Features
