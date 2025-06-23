@@ -43,7 +43,7 @@ export const MAZES: MazeSelectType[]= [
 
 export const PATHFINDING_ALGORITHMS: AlgorithmSelectType[] = [
   { name: "Dijkstra", value: "DIJKSTRA" },
-  { name: "Breath First Search", value: "BFS" },
+  { name: "Breadth First Search", value: "BFS" },
   { name: "Depth First Search", value: "DFS" },
 ];
 
